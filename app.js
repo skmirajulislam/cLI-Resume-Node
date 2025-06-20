@@ -61,7 +61,7 @@
     ];
   
     const experience = [
-      'Software Developer at Octanet pvt (2022 - 2022)',
+      'Software Developer Coding Ninjas (2022 - 2022)',
       'Junior Developer at Topstack India (2022 - 2022)'
     ];
   
